@@ -38,10 +38,33 @@ motto: "If it works, don't look at it. If it doesn't, blame DNS."
 ### ◆ tech.arsenal // weapons of mass bug production
 
 <div align="center">
-  <p><b>[ Primary Languages & Core Tools ]</b></p>
+
+  <p><b>[ Languages & Core ]</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,py,go,rust,c,cpp,html,css,tailwind,react,nextjs,nodejs,express,fastapi,postgres,mongodb,redis,docker,kubernetes,git,github,linux,bash" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=ts,js,php,html,css,bash" alt="Languages" />
   </a>
+
+  <br/><br/>
+
+  <p><b>[ Frontend & Frameworks ]</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,tailwind,bootstrap,jquery,vite" alt="Frontend" />
+  </a>
+
+  <br/><br/>
+
+  <p><b>[ Backend & Databases ]</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,redis,firebase" alt="Backend & DB" />
+  </a>
+
+  <br/><br/>
+
+  <p><b>[ Tools & Environments ]</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,postman" alt="Tools" />
+  </a>
+
 </div>
 
 <br/>
