@@ -5,13 +5,13 @@
   <br/><br/>
 
   <a href="https://github.com/varooats">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=git+commit+-m+%22fixed+bug+by+introducing+3+new+bugs%22;while(alive)+%7B+drink(coffee)%3B+write(code)%3B+%7D;99%25+caffeine+%2B+1%25+pure+luck;sudo+apt+get+life+--install-happiness;works_on_my_machine_certified.png" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Senior+Ctrl%2BC+%2F+Ctrl%2BV+Specialist;90%25+Googling%2C+9%25+waiting+npm+install%2C+1%25+coding;I+write+code+only+God+understands+(now+only+God+knows);git+blame+shows+my+own+name...+tragic.;Works_on_my_machine_certified.png" alt="Typing SVG" />
   </a>
 
   <p>
-    <a href="https://github.com/varooats"><img src="https://img.shields.io/badge/STATUS-COMPILING_(DON'T_TOUCH)-red?style=for-the-badge&logo=gnubash&logoColor=white" alt="Status" /></a>
-    <a href="https://github.com/varooats"><img src="https://img.shields.io/badge/CAFFEINE_LEVEL-CRITICAL_OVERDOSE-darkred?style=for-the-badge&logo=coffeescript&logoColor=white" alt="Caffeine" /></a>
-    <a href="https://github.com/varooats"><img src="https://img.shields.io/badge/VIM_STATUS-STILL_TRAPPED-blueviolet?style=for-the-badge&logo=neovim&logoColor=white" alt="Vim" /></a>
+    <a href="https://github.com/varooats"><img src="https://img.shields.io/badge/SKILL_LEVEL-IMPOSTER_SYNDROME-blueviolet?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Skill Level" /></a>
+    <a href="https://github.com/varooats"><img src="https://img.shields.io/badge/PROD_ACCESS-PERMANENTLY_REVOKED-critical?style=for-the-badge&logo=git&logoColor=white" alt="Prod Access" /></a>
+    <a href="https://github.com/varooats"><img src="https://img.shields.io/badge/CONFIDENCE-APPROX_1.2%25-yellow?style=for-the-badge&logo=statuspage&logoColor=white" alt="Confidence" /></a>
     <img src="https://komarev.com/ghpvc/?username=varooats&style=for-the-badge&color=8957E5&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
 
@@ -23,14 +23,18 @@
 
 ```yaml
 entity: varooats
-class: "Code Monkey / Digital Alchemist"
-subclass: "Chaos Engineer (Self-Proclaimed)"
-alignment: "Chaotic Neutral"
-kernel: Linux (Arch user by personality, Ubuntu user by stability)
-ide: "Neovim (Trapped inside since 2021. :wq doesn't work.)"
-status: "Converting instant noodles and caffeine into runtime errors"
-warranty: "Void if pushed to production on Friday afternoon"
-motto: "If it works, don't look at it. If it doesn't, blame DNS."
+grade: "Novice with an unearned air of confidence"
+occupation: "Professional copy-paster & documentation ignorer"
+ide: "Neovim (Still trapped inside since 2021. :wq doesn't work.)"
+expertise:
+  - center_div: "Failed (uses margin-left: 374px instead)"
+  - git_flow: "Commit message always 'fix' or 'aaaa'"
+  - reading_errors: "Scrolls past stack trace straight to Reddit"
+  - memory_management: "Just restart the server when RAM hits 99%"
+status: "Currently terrified of code I wrote 15 minutes ago"
+threat_assessment: "Harmless to competitors, fatal to production databases"
+known_weaknesses: ["Semicolons", "Regex", "Explaining what my code actually does"]
+motto: "If at first you don't succeed, comment out the test."
 ```
 
 ---
