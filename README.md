@@ -87,35 +87,44 @@ motto: "If at first you don't succeed, comment out the test."
 
 ---
 
-### ◆ metrics.realtime // proof of activity
+### ◆ metrics.realtime // telemetry & questionable productivity
 
 <div align="center">
 
-  <!-- Activity Graph: high reliability rendering -->
+  <p><b>[ Contribution Heatmap // proof of keyboard smashing ]</b></p>
   <a href="https://github.com/varooats">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=varooats&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+    <img src="https://ghchart.rshah.org/58a6ff/varooats" alt="varooats contribution activity" width="100%" />
   </a>
 
   <br/><br/>
 
-  <!-- Stats Grid -->
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=varooats&show_icons=true&theme=tokyonight&hide_border=true&locale=en" width="100%" alt="GitHub Stats" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varooats&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://streak-stats.demolab.com/?user=varooats&theme=tokyonight&hide_border=true" width="100%" alt="Streak Stats" />
-      </td>
-    </tr>
-  </table>
+  <p>
+    <a href="https://github.com/varooats?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-ACTIVE-21262d?style=for-the-badge&logo=git&logoColor=58a6ff" alt="Repos" /></a>
+    <a href="https://github.com/varooats"><img src="https://img.shields.io/github/followers/varooats?style=for-the-badge&logo=github&logoColor=white&color=21262d&labelColor=161b22" alt="Followers" /></a>
+    <a href="https://github.com/varooats"><img src="https://img.shields.io/badge/UPTIME-404_ENERGY_NOT_FOUND-21262d?style=for-the-badge&logo=statuspage&logoColor=yellow" alt="Uptime" /></a>
+  </p>
 
 </div>
+
+<br/>
+
+```text
+┌────────────────────────────────────────────────────────────────────────┐
+│ [AUDIT] VAROOATS PRODUCTIVITY & REALITY BENCHMARK                      │
+├────────────────────────────────────┬───────────────────────────────────┤
+│ Metric                             │ Measured Value                    │
+├────────────────────────────────────┼───────────────────────────────────┤
+│ Code Review Survival Rate          │ 14.2%                             │
+│ Average "git commit -m" Length     │ 4 chars (e.g. "fix", "wip", "aaa")│
+│ Tabs vs Spaces Holy War Stance     │ Whatever the IDE default did      │
+│ Console.log Left in Codebase       │ 1,429 instances                   │
+│ Stack Overflow Reputation          │ Lurker (too intimidated to post)  │
+│ Typing Speed                       │ 110 WPM (90% backspaces)          │
+│ Documentation Reading Frequency    │ Strictly during severe outages    │
+│ Unit Test Philosophy               │ "If it compiles, it ships"        │
+│ Semicolon Placement Accuracy       │ 12.5%                             │
+└────────────────────────────────────┴───────────────────────────────────┘
+```
 
 ---
 
